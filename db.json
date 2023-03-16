@@ -1,0 +1,121 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Woner Woman Part2",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "name": "The Flash",
+      "alterEgo": "SRK",
+      "id": 4
+    },
+    {
+      "name": "IronMan",
+      "alterEgo": "Jr Dawarey",
+      "id": 5
+    },
+    {
+      "name": "Shazam",
+      "alterEgo": "Billy Batson",
+      "id": 6
+    },
+    {
+      "name": "SpiderMan",
+      "alterEgo": "Salman Khan",
+      "id": 7
+    },
+    {
+      "name": "Aquaman",
+      "alterEgo": "John Doe",
+      "id": 8
+    },
+    {
+      "name": "catwomen",
+      "alterEgo": "Salina Kyle",
+      "id": 9
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Chandler Bing"
+    },
+    {
+      "id": 2,
+      "name": "Ram Hare"
+    },
+    {
+      "id": 3,
+      "name": "Krishna Namo"
+    }
+  ],
+  "users": [
+    {
+      "id": "myname@example.com",
+      "channelId": "codevolution"
+    }
+  ],
+  "channels": [
+    {
+      "id": "codevolution",
+      "courses": [
+        "react",
+        "vue",
+        "angular"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "red"
+    },
+    {
+      "id": 2,
+      "label": "green"
+    },
+    {
+      "id": 3,
+      "label": "blue"
+    },
+    {
+      "id": 4,
+      "label": "yellow"
+    },
+    {
+      "id": 5,
+      "label": "black"
+    },
+    {
+      "id": 6,
+      "label": "white"
+    },
+    {
+      "id": 7,
+      "label": "orange"
+    },
+    {
+      "id": 8,
+      "label": "purple"
+    },
+    {
+      "id": 9,
+      "label": "brown"
+    },
+    {
+      "id": 10,
+      "label": "pink"
+    }
+  ]
+}
